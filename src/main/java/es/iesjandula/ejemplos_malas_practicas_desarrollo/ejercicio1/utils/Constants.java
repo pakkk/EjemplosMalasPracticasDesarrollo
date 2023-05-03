@@ -48,5 +48,5 @@ public final class Constants
     public static final int INT_100 	 = 100 ;
 
 	/** Constant - PI */
-	public static final float FLOAT_PI = 3.1416F ;
+	public static final float FLOAT_PI 	 = 3.1416F ;
 }
