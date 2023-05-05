@@ -66,4 +66,15 @@ public final class Constants
 
 	/** Constant - Person - String - Address */
 	public static final Object PERSON_STR_ADDRESS 					= ", address=" ;
+	
+	/** Constant - Person */
+	public static final String PERSON_DNI = "Person [dni=";
+	
+	public static final String CHILDREN2 = ", children=";
+
+	public static final String ADDRESS2 = ", address=";
+
+	public static final String AGE2 = ", age=";
+
+	public static final String NAME2 = ", name=";
 }

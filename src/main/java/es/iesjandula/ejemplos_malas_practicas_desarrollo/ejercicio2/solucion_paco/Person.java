@@ -177,7 +177,7 @@ public class Person
 	 */
 	@Override
 	public String toString()
-	{
+	{		
 		StringBuilder stringBuilder = new StringBuilder() ;
 		
 		stringBuilder.append(Constants.PERSON_STR_PREFIX_AND_DNI) ;
